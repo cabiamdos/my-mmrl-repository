@@ -6,10 +6,10 @@
   "donate": "",
   "submission": "https://github.com/cabiamdos/my-mmrl-repository/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "cover": "https://cabiamdos.github.io/my-mmrl-repository/assets/cover.webp",
-  "description": null,
+  "description": "cabiamdos custom magisk repo; includes modules found on the internet that are not on other official's repositories and also custom modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1776711802.431622
+    "timestamp": 1776724148.630118
   },
   "modules": [
     {

@@ -1,5 +1,6 @@
 id: hid-gadget-module
 enabled: true
+type: ONLINE_JSON        # ← esto falta
 license: MIT
 homepage: https://github.com/kelexine/hid-gadget-module
 source: https://github.com/kelexine/hid-gadget-module

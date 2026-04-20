@@ -3,7 +3,8 @@
 > [!IMPORTANT]
 > Do not fork this repository if you want to create your own Magisk Modules Repository, use the **Use this template** button instead
 
-A template repository to generate your own Magisk Modules Repository
+A template repository to generate your own Magisk Modules Repository.
+Page is located at "https://cabiamdos.github.io/my-mmrl-repository/"
 
 ## Directory and File Overview:
 

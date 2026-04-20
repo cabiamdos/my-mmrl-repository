@@ -1,0 +1,6 @@
+id: hid-gadget-module
+update_to: https://raw.githubusercontent.com/kelexine/hid-gadget-module/main/update.json
+license: MIT
+homepage: https://github.com/kelexine/hid-gadget-module
+source: https://github.com/kelexine/hid-gadget-module
+support: https://github.com/kelexine/hid-gadget-module/issues

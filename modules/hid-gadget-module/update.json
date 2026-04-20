@@ -1,0 +1,7 @@
+{
+  "name": "My MMRL Repository",
+  "base_url": "https://raw.githubusercontent.com/cabiamdos/my-mmrl-repository/refs/heads/master/",
+  "max_num": 3,
+  "enable_log": true,
+  "log_dir": "log"
+}

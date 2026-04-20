@@ -1,5 +1,6 @@
 {
   "name": "Cabiamdos Magisk Repo",
+  "description": "cabiamdos custom magisk repo; includes modules found on the internet that are not on other official's repositories and also custom modules",
   "website": "https://cabiamdos.github.io/my-mmrl-repository",
   "support": "https://github.com/cabiambos/my-mmrl-repository/issues",
   "donate": "",

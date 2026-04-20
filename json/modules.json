@@ -1,15 +1,15 @@
 {
-  "id": "examplcom",
-  "name": "Template Magisk Modules Repository",
-  "website": null,
-  "support": null,
-  "donate": null,
-  "submission": null,
-  "cover": "https://example.com/assets/cover.webp",
+  "id": "cabiomory",
+  "name": "Cabiamdos Magisk Repo",
+  "website": "https://cabiamdos.github.io/my-mmrl-repository",
+  "support": "https://github.com/cabiambos/my-mmrl-repository/issues",
+  "donate": "",
+  "submission": "https://github.com/cabiamdos/my-mmrl-repository/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
+  "cover": "https://cabiamdos.github.io/my-mmrl-repository/assets/cover.webp",
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1776688968.538388
+    "timestamp": 1776696637.298923
   },
   "modules": [
     {
@@ -56,7 +56,7 @@
         "added": 1733301165,
         "source": "https://github.com/backslashxx/bindhosts",
         "antifeatures": null,
-        "build_metadata": "https://example.com/modules/bindhosts/track.yaml"
+        "build_metadata": "https://cabiamdos.github.io/my-mmrl-repository/modules/bindhosts/track.yaml"
       },
       "versions": [
         {
@@ -121,7 +121,7 @@
         "added": 1445340430.7142262,
         "source": "https://github.com/Googlers-Repo/wpd.git",
         "antifeatures": null,
-        "build_metadata": "https://example.com/modules/mmrl_wpd/track.yaml"
+        "build_metadata": "https://cabiamdos.github.io/my-mmrl-repository/modules/mmrl_wpd/track.yaml"
       },
       "versions": [
         {

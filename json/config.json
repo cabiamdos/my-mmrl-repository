@@ -2,6 +2,7 @@
   "name": "Cabiamdos Magisk Repo",
   "website": "https://cabiamdos.github.io/my-mmrl-repository",
   "support": "https://github.com/cabiambos/my-mmrl-repository/issues",
+  "cover": "https://cabiamdos.github.io/my-mmrl-repository/assets/cover1.webp",
   "donate": "",
   "submission": "https://github.com/cabiamdos/my-mmrl-repository/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "base_url": "https://cabiamdos.github.io/my-mmrl-repository/",

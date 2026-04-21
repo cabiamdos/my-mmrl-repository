@@ -1,5 +1,5 @@
 id: hid-gadget-module
-enabled: true
+enable: true
 license: MIT
 homepage: https://github.com/kelexine/hid-gadget-module
 source: https://github.com/kelexine/hid-gadget-module

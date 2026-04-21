@@ -9,7 +9,7 @@
   "description": "cabiamdos custom magisk repo; includes modules found on the internet that are not on other official's repositories and also custom modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1776730214.477538
+    "timestamp": 1776730959.433475
   },
   "modules": [
     {
@@ -74,6 +74,52 @@
           "zipUrl": "https://example.com/modules/bindhosts/v2.1.2_212.zip",
           "changelog": "https://example.com/modules/bindhosts/v2.1.2_212.md",
           "size": 165726
+        }
+      ]
+    },
+    {
+      "id": "hid-gadget-module",
+      "name": "HID Gadget",
+      "version": "v1.38.2",
+      "versionCode": 13802,
+      "author": "kelexine",
+      "description": "USB HID Gadget with dependency-free C-based TUI keyboard and auto-recovery.",
+      "categories": [
+        "HID",
+        "Keyboard Output",
+        "Kali Nehunter"
+      ],
+      "homepage": "https://github.com/kelexine/hid-gadget-module",
+      "support": "https://github.com/kelexine/hid-gadget-module/issues",
+      "license": "MIT",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1776256612.0,
+      "size": 1853914,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.SEPOLICY"
+      ],
+      "features": {
+        "service": true,
+        "sepolicy": true
+      },
+      "stars": 27,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/kelexine/hid-gadget-module",
+        "antifeatures": null,
+        "build_metadata": "https://cabiamdos.github.io/my-mmrl-repository/modules/hid-gadget-module/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1776256612.0,
+          "version": "v1.38.2",
+          "versionCode": 13802,
+          "zipUrl": "https://cabiamdos.github.io/my-mmrl-repository/modules/hid-gadget-module/v1.38.2_13802.zip",
+          "changelog": "",
+          "size": 1853914
         }
       ]
     },

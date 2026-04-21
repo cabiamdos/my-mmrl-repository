@@ -1,11 +1,13 @@
-id: hid-gadget-module
+categories:
+- HID
+- Keyboard Output
+- Kali Nehunter
 enable: true
-type: GIT
-license: MIT
 homepage: https://github.com/kelexine/hid-gadget-module
+id: hid-gadget-module
+last_update: 1776256612.0
+license: MIT
 source: https://github.com/kelexine/hid-gadget-module
 support: https://github.com/kelexine/hid-gadget-module/issues
-categories:
- - HID
- - Keyboard Output
- - Kali Nehunter
+update_to: https://github.com/kelexine/hid-gadget-module.git
+versions: 1

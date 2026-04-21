@@ -1,12 +1,14 @@
 {
   "id": "hid-gadget-module",
+  "timestamp": 1776256612.0,
   "versions": [
     {
-      "timestamp": 1737368340,
+      "timestamp": 1776256612.0,
       "version": "v1.38.2",
       "versionCode": 13802,
-      "zipUrl": "https://github.com/kelexine/hid-gadget-module/releases/download/v1.38.2/hid-gadget-module-v1.38.2.zip",
-      "changelog": "https://raw.githubusercontent.com/kelexine/hid-gadget-module/main/CHANGELOG.md"
+      "zipUrl": "https://cabiamdos.github.io/my-mmrl-repository/modules/hid-gadget-module/v1.38.2_13802.zip",
+      "changelog": "",
+      "size": 1853914
     }
   ]
 }

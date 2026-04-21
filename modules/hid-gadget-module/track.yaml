@@ -3,7 +3,7 @@ enabled: true
 license: MIT
 homepage: https://github.com/kelexine/hid-gadget-module
 source: https://github.com/kelexine/hid-gadget-module
-update_to: https://raw.githubusercontent.com/cabiamdos/my-mmrl-repository/master/modules/hid-gadget-module/update.json
+update_to: https://raw.githubusercontent.com/kelexine/hid-gadget-module/refs/heads/main/update.json
 support: https://github.com/kelexine/hid-gadget-module/issues
 categories:
  - HID
